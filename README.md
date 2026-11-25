@@ -1,5 +1,11 @@
 # Windows-Keyboard-Mouse-Filter PHP SDK
 
+<!-- simple-start:start -->
+Use Windows-Keyboard-Mouse-Filter from a PHP app.
+
+**Start here.** Run `composer require titancsa/windows-keyboard-mouse-filter`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Get the driver without the one-hour demo limit**
 >
